@@ -145,7 +145,7 @@ Material:
     - _DropletsAnimSpeed: 10
     - _DropletsTiling: 1
     - _DstBlend: 0
-    - _EmissionPulsateSpeed: 0
+    - _EmissionPulsateSpeed: 1
     - _FlowCycleScale: 2
     - _Frost: 0
     - _FrostFromGlobal: 0
@@ -187,7 +187,7 @@ Material:
     - _Phong: 0
     - _Pierceable: 0
     - _PresetsShown: 0
-    - _PulsateEmission: 0
+    - _PulsateEmission: 1
     - _RainIntensity: 1
     - _RainIntensityFromGlobal: 0
     - _Refraction: 0.02
@@ -283,7 +283,7 @@ Material:
     - _DetailSpecGloss: {r: 1, g: 1, b: 1, a: 1}
     - _DiffuseScatteringColor: {r: 0, g: 0, b: 0, a: 0}
     - _DiffuseScatteringColor2: {r: 0, g: 0, b: 0, a: 0}
-    - _EmissionColor: {r: 0.09611962, g: 0.72893023, b: 0.754717, a: 1}
+    - _EmissionColor: {r: 0.39421004, g: 2.9329226, b: 3.0117645, a: 1}
     - _GlitterColor: {r: 0.8, g: 0.8, b: 0.8, a: 0.2}
     - _GlitterColor2: {r: 0.8, g: 0.8, b: 0.8, a: 0.2}
     - _SnowColorAndCoverage: {r: 1, g: 1, b: 1, a: 1}

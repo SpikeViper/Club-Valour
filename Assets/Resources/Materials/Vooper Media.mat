@@ -10,7 +10,7 @@ Material:
   m_Name: Vooper Media
   m_Shader: {fileID: 4800000, guid: fd1b0c2328cad6942aa89eb15af421f0, type: 3}
   m_ShaderKeywords: _WETNESS_NONE
-  m_LightmapFlags: 4
+  m_LightmapFlags: 0
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
@@ -283,7 +283,7 @@ Material:
     - _DetailSpecGloss: {r: 1, g: 1, b: 1, a: 1}
     - _DiffuseScatteringColor: {r: 0, g: 0, b: 0, a: 0}
     - _DiffuseScatteringColor2: {r: 0, g: 0, b: 0, a: 0}
-    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _EmissionColor: {r: 2, g: 2, b: 2, a: 1}
     - _GlitterColor: {r: 0.8, g: 0.8, b: 0.8, a: 0.2}
     - _GlitterColor2: {r: 0.8, g: 0.8, b: 0.8, a: 0.2}
     - _SnowColorAndCoverage: {r: 1, g: 1, b: 1, a: 1}
